@@ -1,0 +1,10 @@
+D:\BTC#\AdvntureGame\AdvntureGame\bin\Debug\AdvntureGame.exe.config
+D:\BTC#\AdvntureGame\AdvntureGame\bin\Debug\AdvntureGame.exe
+D:\BTC#\AdvntureGame\AdvntureGame\bin\Debug\AdvntureGame.pdb
+D:\BTC#\AdvntureGame\AdvntureGame\bin\Debug\Newtonsoft.Json.dll
+D:\BTC#\AdvntureGame\AdvntureGame\bin\Debug\Newtonsoft.Json.xml
+D:\BTC#\AdvntureGame\AdvntureGame\obj\Debug\AdvntureGame.csproj.AssemblyReference.cache
+D:\BTC#\AdvntureGame\AdvntureGame\obj\Debug\AdvntureGame.csproj.CoreCompileInputs.cache
+D:\BTC#\AdvntureGame\AdvntureGame\obj\Debug\AdvntureGame.csproj.CopyComplete
+D:\BTC#\AdvntureGame\AdvntureGame\obj\Debug\AdvntureGame.exe
+D:\BTC#\AdvntureGame\AdvntureGame\obj\Debug\AdvntureGame.pdb
